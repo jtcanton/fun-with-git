@@ -2,4 +2,4 @@
 
 Have fun with git :-)
 
-I will, thank you
+I will, thanks!
